@@ -71,8 +71,7 @@
 }
 
 .ex-7-img:hover {
-  filter: hue-rotate(-0.25turn);
-  opacity: 0.5;
+  filter: hue-rotate(-0.25turn) sepia(50%);
 }
 
 .ex-8-img:hover {
